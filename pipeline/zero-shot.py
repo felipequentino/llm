@@ -1,3 +1,6 @@
+# BIG FIVE
+# IDENTIFICAR TRAÇOS DE PERSONALIDADE
+
 from transformers import pipeline
 
 # Load the zero-shot classification pipeline
